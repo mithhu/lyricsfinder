@@ -1,9 +1,11 @@
 # Features
 
-> Search Lyrics
+> Search Song Lyrics
+
+> Top 10 track list
 
 # What I Learned
 
-> How mUsixmatxh API works
+> How Mussixmatxh API works
 
 > JSX
